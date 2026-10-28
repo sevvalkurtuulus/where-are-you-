@@ -2,8 +2,8 @@
 
 ![Önizleme](preview.png)
 
-Konum iğnesinin içinden bakan iki göz — "Neredesin?" fikri.
-Renkler: arka plan mor-lacivert (`#6A5BFF` → `#1C1270`), iğne mercan-pembe (`#FF8A5B` → `#FF3D71`).
+Karanlık bir topografik haritanın zirvesinde parlayan bir sinyal noktası ve ondan yayılan radar halkaları.
+Renkler: arka plan gece mavisi (`#1A1250` → `#04051A`), harita çizgileri camgöbeği → mor gradyan (`#4DE1FF` → `#9B5CFF`), sinyal `#9DF1FF` + beyaz.
 
 ## Dosyalar
 
